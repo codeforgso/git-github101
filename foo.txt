@@ -1,1 +1,1 @@
-I pity the foo that is not in the git workshop. Another change.
+I pity the foo that is not in the git workshop. Another change.  Still more changing!!!
